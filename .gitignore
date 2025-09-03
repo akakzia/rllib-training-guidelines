@@ -1,0 +1,7 @@
+# Env and packages
+.env
+.venv/
+*.egg-info
+uv.lock
+requirements.txt
+.python-version

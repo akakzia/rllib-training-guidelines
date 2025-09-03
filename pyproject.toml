@@ -1,0 +1,7 @@
+[project]
+name = "rllib-training-guildelines"
+version = "0.1.0"
+description = "RLlib Training Guidelines"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
