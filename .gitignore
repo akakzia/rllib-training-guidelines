@@ -5,3 +5,7 @@
 uv.lock
 requirements.txt
 .python-version
+__pycache__
+
+# IDE
+.vscode/
