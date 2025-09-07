@@ -14,3 +14,11 @@ To accomplish this mission, you will need to **customize many components in RLli
 + Implement your custom evaluation protocol. 
 + Log metrics to Neptune. 
 + Perform hyper-parameter tuning 
+
+### Contributing
+
+- [x] Create repo.
+- [x] Setup uv.
+- [x] Setup environment.
+- [ ] Setup RLlib.
+- [ ] Setup Training Pipeline.
