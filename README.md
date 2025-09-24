@@ -11,7 +11,7 @@ Throughout this training, your task is to solve the [Fetch Reach](https://roboti
 To accomplish this mission, you will need to **customize many components in RLlib, augment your solution with connectors, launch and evaluate experiments**. We have broken this exercise into several steps, which can be found in the issues directory. The main steps are outlined below: 
 
 + [Setup dev environment and install dependencies.](docs/setup_env.md) 
-+ [Implement a simple rollout script with a random policy.](docs/rollout_random_agent.md)
++ [Implement a Simple Rollout script with a Random Policy.](docs/rollout_random_agent.md)
 + [Implement DictToArrayObservationWrapper.](docs/observation_wrapper.md) 
 + [Implement an RLlib training script using ray tuner.](docs/training_with_tuner.md) 
 + [Implement a neptune logging callback.](docs/neptune.md)
